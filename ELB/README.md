@@ -4,12 +4,12 @@ Elastic Load Balancing (ELB) automatically distributes incoming application traf
 
 ## Application Load Balancer
 
-![Application Load Balancer](images/Screen Shot 2022-09-26 at 10.56.12.png)
+![Application Load Balancer](images/app.png)
 
 ## Gateway Load Balancer
 
-![Gateway Load Balancer](images/Screen Shot 2022-09-26 at 11.17.19.png)
+![Gateway Load Balancer](images/gateway.png)
 
 ## Network Load Balancer
 
-![Network Load Balancer](images/Screen Shot 2022-09-26 at 11.21.10.png)
+![Network Load Balancer](images/network.png)
