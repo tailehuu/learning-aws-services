@@ -1,3 +1,0 @@
-# Elastic Load Balancer
-
-![Application Load Balancer](https://drive.google.com/uc?id=1SQTRaV0iO5pscb63PITQOMdToe4O9aWs "Application Load Balancer")
